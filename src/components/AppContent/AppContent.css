@@ -1,0 +1,6 @@
+.appContent{
+    display: flex;
+}
+.appContent__mails{
+    flex:1
+}

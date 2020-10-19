@@ -1,0 +1,22 @@
+.formMenu{
+    display: flex;
+    text-align: center;
+    color:#5f6368;
+    justify-content:center;
+    padding:4px;
+    
+}
+.formMenu__button{
+    display: flex;
+    align-items: center;
+    color:white;
+}
+.formMenu__button >button{
+    background-color: #1a73e8;
+    color: white;
+    padding: 3px;
+    width: 90px;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+}

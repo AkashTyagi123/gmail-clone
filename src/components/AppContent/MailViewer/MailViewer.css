@@ -1,0 +1,50 @@
+.mailViewer__header{
+    box-shadow: 0 2px rgba(242,245,245,0.8);
+    color:#5f6368;
+}
+.mailViewer__header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mailViewer__headerRightIcons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mailViewer__navigation{
+display: flex;
+align-items: center;
+box-shadow: 0 2px rgba(242,245,245,0.8);
+color:#5f6368;
+
+}
+.mailViewer__navigationItem{
+    display: flex;
+    align-items: center;
+    width: 300px!important;
+}
+.mailViewer__mails{
+    height: 80vh;
+    overflow: scroll;
+    
+ 
+}
+.primary--active{
+    color:#d9534f;
+    border-bottom: 2px solid #d9534f;
+}
+.social--active{
+    color:#0275d8;
+    border-bottom: 2px solid #0275d8;
+}
+.promotion--active{
+    color:#188038;
+    border-bottom: 2px solid #188038;
+}
+.mailViewer__navigationItem:hover{
+    background-color: rgba(242,245,245,0.8);
+}
+
+
+
